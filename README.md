@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/hindhuja-143/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/hindhuja-143/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
