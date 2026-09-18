@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/hindhuja-143/leetcode/tree/master/0791-custom-sort-string) |
 | [1207-unique-number-of-occurrences](https://github.com/hindhuja-143/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/hindhuja-143/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hindhuja-143/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0791-custom-sort-string](https://github.com/hindhuja-143/leetcode/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hindhuja-143/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/hindhuja-143/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/hindhuja-143/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/hindhuja-143/leetcode/tree/master/0791-custom-sort-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
