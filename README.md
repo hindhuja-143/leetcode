@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/hindhuja-143/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hindhuja-143/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0791-custom-sort-string](https://github.com/hindhuja-143/leetcode/tree/master/0791-custom-sort-string) |
+| [0984-string-without-aaa-or-bbb](https://github.com/hindhuja-143/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/hindhuja-143/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/hindhuja-143/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/hindhuja-143/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hindhuja-143/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hindhuja-143/leetcode/tree/master/0009-palindrome-number) |
+## Greedy
+|  |
+| ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/hindhuja-143/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 <!---LeetCode Topics End-->
