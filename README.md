@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/hindhuja-143/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/hindhuja-143/leetcode/tree/master/3174-clear-digits) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hindhuja-143/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
