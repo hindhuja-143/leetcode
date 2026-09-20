@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hindhuja-143/leetcode/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hindhuja-143/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/hindhuja-143/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hindhuja-143/leetcode/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/hindhuja-143/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hindhuja-143/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0791-custom-sort-string](https://github.com/hindhuja-143/leetcode/tree/master/0791-custom-sort-string) |
