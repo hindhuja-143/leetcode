@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hindhuja-143/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hindhuja-143/leetcode/tree/master/0009-palindrome-number) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/hindhuja-143/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hindhuja-143/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/hindhuja-143/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
