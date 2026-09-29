@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/hindhuja-143/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2103-rings-and-rods](https://github.com/hindhuja-143/leetcode/tree/master/2103-rings-and-rods) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hindhuja-143/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/hindhuja-143/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/hindhuja-143/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2103-rings-and-rods](https://github.com/hindhuja-143/leetcode/tree/master/2103-rings-and-rods) |
 | [2390-removing-stars-from-a-string](https://github.com/hindhuja-143/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/hindhuja-143/leetcode/tree/master/3174-clear-digits) |
 ## Stack
