@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/hindhuja-143/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/hindhuja-143/leetcode/tree/master/2103-rings-and-rods) |
 | [2390-removing-stars-from-a-string](https://github.com/hindhuja-143/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3163-string-compression-iii](https://github.com/hindhuja-143/leetcode/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/hindhuja-143/leetcode/tree/master/3174-clear-digits) |
 ## Stack
 |  |
