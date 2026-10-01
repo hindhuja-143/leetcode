@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hindhuja-143/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja-143/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/hindhuja-143/leetcode/tree/master/0704-binary-search) |
+| [0733-flood-fill](https://github.com/hindhuja-143/leetcode/tree/master/0733-flood-fill) |
 | [1207-unique-number-of-occurrences](https://github.com/hindhuja-143/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hindhuja-143/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -137,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja-143/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/hindhuja-143/leetcode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/hindhuja-143/leetcode/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/hindhuja-143/leetcode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
