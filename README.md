@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/hindhuja-143/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hindhuja-143/leetcode/tree/master/0994-rotting-oranges) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/hindhuja-143/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
