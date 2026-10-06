@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2103-rings-and-rods](https://github.com/hindhuja-143/leetcode/tree/master/2103-rings-and-rods) |
+| [3945-digit-frequency-score](https://github.com/hindhuja-143/leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hindhuja-143/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hindhuja-143/leetcode/tree/master/0009-palindrome-number) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/hindhuja-143/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3945-digit-frequency-score](https://github.com/hindhuja-143/leetcode/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
 | ------- |
