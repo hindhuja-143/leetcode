@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hindhuja-143/leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/hindhuja-143/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hindhuja-143/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0791-custom-sort-string](https://github.com/hindhuja-143/leetcode/tree/master/0791-custom-sort-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hindhuja-143/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hindhuja-143/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/hindhuja-143/leetcode/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/hindhuja-143/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/hindhuja-143/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hindhuja-143/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hindhuja-143/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hindhuja-143/leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/hindhuja-143/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/hindhuja-143/leetcode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/hindhuja-143/leetcode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hindhuja-143/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/hindhuja-143/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hindhuja-143/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
