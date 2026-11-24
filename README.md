@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/hindhuja-143/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/hindhuja-143/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/hindhuja-143/leetcode/tree/master/2103-rings-and-rods) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/hindhuja-143/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/hindhuja-143/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3163-string-compression-iii](https://github.com/hindhuja-143/leetcode/tree/master/3163-string-compression-iii) |
 | [3174-clear-digits](https://github.com/hindhuja-143/leetcode/tree/master/3174-clear-digits) |
