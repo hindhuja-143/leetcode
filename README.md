@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/hindhuja-143/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/hindhuja-143/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hindhuja-143/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hindhuja-143/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3668-restore-finishing-order](https://github.com/hindhuja-143/leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hindhuja-143/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/hindhuja-143/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hindhuja-143/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hindhuja-143/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3945-digit-frequency-score](https://github.com/hindhuja-143/leetcode/tree/master/3945-digit-frequency-score) |
 ## Greedy
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/hindhuja-143/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hindhuja-143/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hindhuja-143/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hindhuja-143/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hindhuja-143/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hindhuja-143/leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hindhuja-143/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
